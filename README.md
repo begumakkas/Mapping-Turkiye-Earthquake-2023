@@ -6,7 +6,7 @@ We used ArcGIS Pro to document and analyze the effects of the **February 2023 Tu
 ## Analysis Summary
 - Pre- and post-earthquake population comparisons reveal significant displacement, with millions forced to leave their homes.  
 - Geographic mapping shows the hardest-hit areas concentrated in Kahramanmaraş, Hatay, and Gaziantep, with widespread infrastructure collapse along fault lines.  
-- The 2023 earthquake highlights the challenge of dealing with acute displacement as well as long-term regional recovery.  
+- The earthquake highlights the challenge of dealing with acute displacement as well as long-term regional recovery.  
 
 ## Sample Visualizations
 
