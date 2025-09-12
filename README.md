@@ -1,4 +1,4 @@
-# Mapping The 2023 Türkiye Earthquake
+# Mapping the 2023 Türkiye Earthquake
 
 ## Overview
 We used ArcGIS Pro to document and analyze the effects of the **February 2023 Türkiye earthquakes** on population displacement and infrastructure damage.  
