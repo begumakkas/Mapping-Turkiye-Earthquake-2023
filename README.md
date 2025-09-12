@@ -16,7 +16,7 @@ We used ArcGIS Pro to document and analyze the effects of the **February 2023 Tu
 ### Pre-Earthquake Population In Affected Areas
 <img width="600" height="464" alt="Map of Pre-Earthquake Population In Affected Areas in 2022" src="https://github.com/user-attachments/assets/e08bf486-8288-45a5-8857-507d18bcc30f" />
 
-### Population Displacement
+### Population Change
 <img width="600" height="464" alt="Population Change 2022 - 2024" src="https://github.com/user-attachments/assets/00abdf6b-3b80-4662-a64d-50d942cd9abf" />
 
 ### Earthquake Epicenters
